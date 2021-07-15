@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chub-Dracarys
+- 👋 Hi, I’m Sai
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning Terraform and lambda 
 
